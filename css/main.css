@@ -148,7 +148,7 @@ h1{
     margin-left: 12px;
     margin-right: 12px;
   }
-
+  /* this form section probably gave me the hardest time, I suspect studying more of how box model works will help */
     form{
     width: 965px;
     height: 500px;
@@ -163,7 +163,7 @@ h1{
     width: 100%;
     height: 25px;
   }
-  
+  /* I really see the usefulness of removing the resize option on a message box, messes a lot with the layout of the page */
   .msgbox{
     width: 100%;
     height: 80px;
@@ -188,6 +188,6 @@ h1{
   margin-bottom: 20px;
  }
  label{
-    font-size: 18px;;
+    font-size: 18px;
  }
  
